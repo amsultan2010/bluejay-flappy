@@ -6,14 +6,13 @@ Built by [Abdullah Sultan](https://www.amsultan.site).
 
 ## Play
 
-It's a static site with no build step. Open `index.html` through any static server:
+[Play Flappy J](https://flappyjay.grok.me)
+
+It's a static site with no build step. To run the source locally:
 
 ```bash
 python3 -m http.server 8000
-# then visit http://localhost:8000
 ```
-
-Or deploy the folder as-is to GitHub Pages, Vercel or Netlify.
 
 ## Controls
 
